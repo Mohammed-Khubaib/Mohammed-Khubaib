@@ -25,16 +25,19 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-
 </p>
-
+  
+  <hr/>
+  
+<p> <h1>
 <details> 
-    <summary><b>💻 GitHub Profile Stats</b></summary>
+    <summary> <b>GitHub Profile Stats :chart_with_upwards_trend:</b> </summary>
     <br/>
     <p align="center">
       <a href="http://www.github.com/Mohammed-Khubaib"><img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Khubaib&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mohammed-Khubaib's GitHub stats" /></a>
     </p>
-  </details>
+  <h1/></details>
+  </p>
   <br/>
 
   <hr/>
