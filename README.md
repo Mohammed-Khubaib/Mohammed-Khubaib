@@ -1,11 +1,12 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://bio.link/mohammed__khubaib" target="_blank" rel="noreferrer">Mohammed Khubaib !</a></h1>
-<hr/>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://bio.link/mohammed__khubaib" target="_blank" rel="noreferrer">Mohammed Khubaib!</a></h2>
+
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student.;DevOps%20Enthusiast.;Always%20learning%20new%20things.;&center=true&width=500&height=50"></p>
 
+___
 
-<h1 align="center">🛠️ Skills<h1/>
+<h2 align="center">🛠️ Skills<h2/>
 
-<h2>Programming Languages :<h2/>
+<h3>Programming Languages :<h3/>
 <p align="center">
   &emsp;
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -35,17 +36,15 @@
 </p>
   
   <hr/>
-  
-<p> <h1>
+<p> <h3>
 <details> 
     <summary> <b>GitHub Profile Stats :chart_with_upwards_trend:</b> </summary>
     <br/>
     <p align="center">
       <a href="http://www.github.com/Mohammed-Khubaib"><img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Khubaib&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mohammed-Khubaib's GitHub stats" /></a>
     </p>
-  <h1/></details>
+  <h3/></details>
   </p>
-  <br/>
-
-  <hr/>
+<hr/>
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Khubaibf&label=Profile%20views&color=0e75b6&style=plastic" alt="Mohammed-Khubaib" /> </p>
