@@ -1,11 +1,26 @@
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://bio.link/mohammed__khubaib" target="_blank" rel="noreferrer">Mohammed Khubaib!</a></h2>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student.;Always%20learning%20new%20things.;&center=true&width=500&height=50"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+ 
+<h2 align="center">Hey , I'm <a href="https://bio.link/mohammed__khubaib" target="_blank" rel="noreferrer">Mohammed Khubaib!</a>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h2>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergrad.;Always%20learning%20new%20things.;&center=true&width=600&height=50"></p>
 
+
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <h2 align="center">🛠️ Skills<h2/>
+
+
+
+
 
 <h3>Programming Languages :<h3/>
 <p align="center">
