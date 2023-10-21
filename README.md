@@ -75,11 +75,13 @@
     &emsp;
      <a href="https://git-scm.com/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
     &emsp;
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.sh" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  &emsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     &emsp;
  <a href="https://code.visualstudio.com/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
+ <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> <img src="https://github.com/Mohammed-Khubaib/Mohammed-Khubaib/assets/102320167/f2f96519-0370-4222-ba81-f84a7173ddb7" alt="shell"   
+    width="76" height="46"/></a>
 </p>
   <hr/>
 <p> <h3>
