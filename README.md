@@ -16,12 +16,12 @@
 <h2/>
 
 <p align="center" style="border-bottom: none; text-decoration: none; pointer-events: none;">
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/datascience.svg" alt="Data Science" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/ai.svg" alt="Ai" width="60"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/ml.svg" alt="Ml" width="60"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/deeplearning.svg" alt="DL" width="60"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/cpd.svg" alt="DL" width="190"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/devops.svg" alt="DL" width="102"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/datascience.svg" alt="Data Science" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/ai.svg" alt="Ai" width="60"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/ml.svg" alt="Ml" width="60"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/deeplearning.svg" alt="DL" width="60"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/cpd.svg" alt="DL" width="190"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/devops.svg" alt="DL" width="102"></a>
 </p>
 
 <h1 align="center" style="border-bottom: none; text-decoration: none;">Tech Stack</h1>
@@ -33,9 +33,9 @@
 <h4/>
 
 <p align="start" style="pointer-events: none;">
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/python.svg" alt="Python" width="80"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/golang.svg" alt="GoLang" width="90"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/dart.svg" alt="Dart" width="80"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/python.svg" alt="Python" width="80"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/golang.svg" alt="GoLang" width="90"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/dart.svg" alt="Dart" width="80"></a>
 </p>
 
 <h4 align="start" style="text-decoration: none;">
@@ -45,10 +45,10 @@
 <h4/>
 
 <p align="start" style="pointer-events: none;">
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/flutter.svg" alt="flutter" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/fastapi.svg" alt="Ai" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/streamlit.svg" alt="Ml" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/flask.svg" alt="flask" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/flutter.svg" alt="flutter" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/fastapi.svg" alt="Ai" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/streamlit.svg" alt="Ml" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/flask.svg" alt="flask" width="100"></a>
 </p>
 
 <h4 align="start" style="text-decoration: none;">
@@ -58,16 +58,16 @@
 <h4/>
 
 <p align="start" style="pointer-events: none;">
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/supabase.svg" alt="supabase" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/firebase.svg" alt="firebase" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/git.svg" alt="git" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/docker.svg" alt="docker" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/bash.svg" alt="bash" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/postgresql.svg" alt="postgresql" width="110"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/aws.svg" alt="aws" width="70"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/gcp.svg" alt="gcp" width="70"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/postman.svg" alt="postman" width="100"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="assets/figma.svg" alt="figma" width="105"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/supabase.svg" alt="supabase" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/firebase.svg" alt="firebase" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/git.svg" alt="git" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/docker.svg" alt="docker" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/bash.svg" alt="bash" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/postgresql.svg" alt="postgresql" width="110"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/aws.svg" alt="aws" width="70"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/gcp.svg" alt="gcp" width="70"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/postman.svg" alt="postman" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/figma.svg" alt="figma" width="105"></a>
 </p>
 
 
