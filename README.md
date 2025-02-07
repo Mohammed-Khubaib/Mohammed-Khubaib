@@ -1,106 +1,87 @@
+<h1 align="center" style="border-bottom: none; text-decoration: none; margin-bottom: 0;">About Me</h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
- 
 <h2 align="center">Hey , I'm <a href="https://bio.link/mohammed__khubaib" target="_blank" rel="noreferrer">Mohammed Khubaib!</a>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergrad.;Always%20learning%20new%20things.;&center=true&width=600&height=50"></p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<h2 align="center">🛠️ Skills<h2/>
-
-
-
-
----
-
-### `</>` Programming Languages :
 <p align="center">
-  &emsp;
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  &emsp;
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  &emsp;
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  &emsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  &emsp;
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-  &emsp;
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
-&emsp;
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21A157&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer" alt="Computer Science Engineer" /></a>
 </p>
 
-
-
-
-
----
-### 👨‍💻 Web Technologies
 <p align="center">
- &emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  &emsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-   &emsp;
- <a href="https://go.dev/doc/](https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://github.com/Mohammed-Khubaib/Mohammed-Khubaib/assets/102320167/ac018c5f-c1f4-4df1-85ea-69d6d3cdbf3b" width="46" height="36" alt="Streamlit" /></a>
-  &emsp;
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
- &emsp;
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
- &emsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
- &emsp;
- <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
-
+  🚀 Passionate about harnessing cutting-edge technologies to solve real-world challenges. Committed to continuous learning, driving innovation, and contributing to impactful projects that enhance automation, efficiency, and scalability.
 </p>
-&emsp;
 
----
+<h2 align="center" style="color: #828181; border-bottom: none; text-decoration: none;">
+  <span>
+    Areas of Interest :
+  </span>
+<h2/>
 
-### ☁️ Cloud Platform
+<p align="center" style="border-bottom: none; text-decoration: none; pointer-events: none;">
+  <img src="assets/datascience.svg" alt="Data Science" width="100">
+  <img src="assets/ai.svg" alt="Ai" width="60">
+  <img src="assets/ml.svg" alt="Ml" width="60">
+  <img src="assets/deeplearning.svg" alt="DL" width="60">
+  <img src="assets/cpd.svg" alt="DL" width="190">
+  <img src="assets/devops.svg" alt="DL" width="102">
+</p>
+
+<h1 align="center" style="border-bottom: none; text-decoration: none;">Tech Stack</h1>
+
+<h4 align="start" style="text-decoration: none;">
+  <span style="color: #828181;">
+    Programming Languages:
+  </span>
+<h4/>
+
+<p align="start" style="pointer-events: none;">
+  <img src="assets/python.svg" alt="Python" width="70">
+  <img src="assets/golang.svg" alt="GoLang" width="70">
+  <img src="assets/dart.svg" alt="Dart" width="70">
+</p>
+
+<h4 align="start" style="text-decoration: none;">
+  <span style="color: #828181;">
+    Frameworks / Libraries :
+  </span>
+<h4/>
+
+<p align="start" style="pointer-events: none;">
+  <img src="assets/flutter.svg" alt="flutter" width="80">
+  <img src="assets/fastapi.svg" alt="Ai" width="80">
+  <img src="assets/streamlit.svg" alt="Ml" width="80">
+  <img src="assets/flask.svg" alt="flask" width="80">
+</p>
+
+<h4 align="start" style="text-decoration: none;">
+  <span style="color: #828181;">
+    Tools :
+  </span>
+<h4/>
+
+<p align="start" style="pointer-events: none;">
+  <img src="assets/supabase.svg" alt="supabase" width="80">
+  <img src="assets/firebase.svg" alt="firebase" width="80">
+  <img src="assets/git.svg" alt="git" width="80">
+  <img src="assets/docker.svg" alt="docker" width="80">
+  <img src="assets/bash.svg" alt="bash" width="80">
+  <img src="assets/postgresql.svg" alt="postgresql" width="90">
+  <img src="assets/aws.svg" alt="aws" width="60">
+  <img src="assets/gcp.svg" alt="gcp" width="60">
+  <img src="assets/postman.svg" alt="postman" width="80">
+  <img src="assets/figma.svg" alt="figma" width="85">
+</p>
+
+
+<h1 align="center" style="border-bottom: none; text-decoration: none;">Projects</h1>
 <p align="center">
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <a href="https://ouspark.vercel.app/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
+    <picture> <img src="assets/OuSpark App.svg" width="500" height="300" /> </picture>
+  </a>
 </p>
 
----
-### ⚙ Software & Tools 
+<h1 align="center" style="border-bottom: none; text-decoration: none;">Connect</h1>
 
-  <p align="center">
-    &emsp;
-     <a href="https://git-scm.com/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-    &emsp;
-<a href="https://www.sh" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- &emsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-    &emsp;
- <a href="https://code.visualstudio.com/" target="_blank"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
- <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> <img src="https://github.com/Mohammed-Khubaib/Mohammed-Khubaib/assets/102320167/f2f96519-0370-4222-ba81-f84a7173ddb7" alt="shell"   
-    width="76" height="46"/></a>
-</p>
-  <hr/>
-<p> <h3>
-<details> 
-    <summary> <b>GitHub Profile Stats :chart_with_upwards_trend:</b> </summary>
-    <br/>
-    <p align="center">
-      <a href="http://www.github.com/Mohammed-Khubaib"><img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Khubaib&show_icons=true&hide=stars,issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mohammed-Khubaib's GitHub stats" /></a>
-    </p>
-  <h3/></details>
-  </p>
-<hr/>
-  
+<p align="center">  <a href="https://www.linkedin.com/in/mohammedkhubaib" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/linkedin.svg" /> <img src="assets/linkedin.svg" width="52" height="52" /> </picture> </a></p>
 
-
-### Socials
-
-<p align="center">  <a href="https://www.linkedin.com/in/mohammedkhubaib" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Khubaibf&label=Profile%20views&color=0e75b6&style=plastic" alt="Mohammed-Khubaib" /> </p>
-
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Khubaibf&label=Profile%20views&color=21A157&style=plastic" alt="Mohammed-Khubaib" /> </p>
