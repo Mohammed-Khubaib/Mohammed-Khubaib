@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21A157&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer" alt="Computer Science Engineer" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rounded+Mplus+1c&pause=1000&color=21A157&background=19271F&center=true&vCenter=true&multiline=true&repeat=false&width=438&height=40&lines=Computer+Science+Engineer" alt="Computer Science Engineer" /></a>
 </p>
 
 <p align="center">
