@@ -1,5 +1,3 @@
-<h1 align="center" style="border-bottom: none; text-decoration: none; margin-bottom: 0;">About Me</h1>
-
 <h2 align="center">Hey , I'm <a href="https://bio.link/mohammed__khubaib" target="_blank" rel="noreferrer">Mohammed Khubaib!</a>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
