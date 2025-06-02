@@ -10,12 +10,23 @@
 
 
 <h1 align="center" style="border-bottom: none; text-decoration: none;">Projects</h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://ouspark.vercel.app/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
     <picture> <img src="assets/OuSpark App.svg" width="500" height="300" /> </picture>
   </a>
+</p> -->
+
+
+<p align="center">
+  <a href="https://ouspark.vercel.app/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammed-Khubaib/Mohammed-Khubaib/main/assets/OuSparkShowLight.png">
+      <img src="https://raw.githubusercontent.com/Mohammed-Khubaib/Mohammed-Khubaib/main/assets/OuSparkShowDark.png" width="500" height="380">
+    </picture>
+  </a>
 </p>
 
+---
 
 <h2 align="center" style="color: #828181; border-bottom: none; text-decoration: none;">
   <span>
