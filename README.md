@@ -1,4 +1,4 @@
-![Git Banner](https://raw.githubusercontent.com/Mohammed-Khubaib/Mohammed-Khubaib/main/assets/gitBanner.gif)
+![Git Cover](https://raw.githubusercontent.com/Mohammed-Khubaib/Mohammed-Khubaib/main/assets/gitCover.gif)
 
 
 <h2 align="center">Hey , I'm <a href="https://bio.link/mohammed__khubaib" target="_blank" rel="noreferrer">Mohammed Khubaib!</a>
