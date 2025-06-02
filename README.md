@@ -1,6 +1,6 @@
-<p align="center">
-<img src="./assets/GitCover.svg">
-</p>
+![Git Banner](https://raw.githubusercontent.com/Mohammed-Khubaib/Mohammed-Khubaib/main/assets/gitBanner.gif)
+
+
 <h2 align="center">Hey , I'm <a href="https://bio.link/mohammed__khubaib" target="_blank" rel="noreferrer">Mohammed Khubaib!</a>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
@@ -8,9 +8,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rounded+Mplus+1c&pause=1000&color=21A157&background=19271F&center=true&vCenter=true&multiline=true&repeat=false&width=438&height=40&lines=Computer+Science+Engineer" alt="Computer Science Engineer" /></a>
 </p>
 
+
+<h1 align="center" style="border-bottom: none; text-decoration: none;">Projects</h1>
 <p align="center">
-  🚀 Passionate about harnessing cutting-edge technologies to solve real-world challenges. Committed to continuous learning, driving innovation, and contributing to impactful projects that enhance automation, efficiency, and scalability.
+  <a href="https://ouspark.vercel.app/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
+    <picture> <img src="assets/OuSpark App.svg" width="500" height="300" /> </picture>
+  </a>
 </p>
+
 
 <h2 align="center" style="color: #828181; border-bottom: none; text-decoration: none;">
   <span>
@@ -74,12 +79,6 @@
 </p>
 
 
-<h1 align="center" style="border-bottom: none; text-decoration: none;">Projects</h1>
-<p align="center">
-  <a href="https://ouspark.vercel.app/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
-    <picture> <img src="assets/OuSpark App.svg" width="500" height="300" /> </picture>
-  </a>
-</p>
 
 <h1 align="center" style="border-bottom: none; text-decoration: none;">Connect</h1>
 
