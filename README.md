@@ -18,12 +18,8 @@
 
 
 <p align="center">
-  <a href="https://ouspark.vercel.app/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammed-Khubaib/Mohammed-Khubaib/main/assets/OuSparkShowLight.png">
-      <img src="https://raw.githubusercontent.com/Mohammed-Khubaib/Mohammed-Khubaib/main/assets/OuSparkShowDark.png" width="500" height="380">
-    </picture>
-  </a>
+  <img src="https://raw.githubusercontent.com/Mohammed-Khubaib/Mohammed-Khubaib/main/assets/OuSparkShowDark.png#gh-light-mode-only" width="500" height="380">
+    <img src="https://raw.githubusercontent.com/Mohammed-Khubaib/Mohammed-Khubaib/main/assets/OuSparkShowLight.png#gh-dark-mode-only" width="500" height="380">
 </p>
 
 ---
