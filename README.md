@@ -70,12 +70,13 @@
   <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/supabase.svg" alt="supabase" width="100"></a>
   <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/firebase.svg" alt="firebase" width="100"></a>
   <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/git.svg" alt="git" width="100"></a>
-  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/docker.svg" alt="docker" width="100"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/docker.svg" alt="docker" width="100"></a></br></br>
   <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/bash.svg" alt="bash" width="100"></a>
   <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/postgresql.svg" alt="postgresql" width="110"></a>
   <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/aws.svg" alt="aws" width="70"></a>
-  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/gcp.svg" alt="gcp" width="70"></a>
+  <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/gcp.svg" alt="gcp" width="70"></a></br></br>
   <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/postman.svg" alt="postman" width="100"></a>
+ <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/Redis%20logo.svg" alt="redis" width="100"></a>
   <a href="https://github.com/Mohammed-Khubaib" target="_blank" rel="noreferrer"><img src="assets/figma.svg" alt="figma" width="105"></a>
 </p>
 
